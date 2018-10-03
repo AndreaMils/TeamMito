@@ -1,0 +1,9 @@
+.backgroundh1{
+	background-color: #740000;
+
+}
+
+hr.star-light:after {
+  color: #fff;
+  background-color: #740000;
+}
